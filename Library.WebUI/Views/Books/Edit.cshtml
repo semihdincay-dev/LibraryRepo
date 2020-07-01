@@ -1,0 +1,27 @@
+﻿@model Library.Entity.Book
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Update Book</h2>
+
+<div class="col-md-12">
+    <form action="Edit" method="post">
+        <div class="col-md-4">
+            @Html.HiddenFor(z=>z.Id)
+            <div class="form-group">
+                @Html.Label("Book Name")
+                @Html.TextBoxFor(z => z.Name, null, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                @Html.Label("Author Name")
+                @Html.TextBoxFor(z => z.Author, new { @class = "form-control" })
+            </div>
+            <button type="submit" class="btn btn-primary">Save</button>
+        </div>
+        <div class="col-md-6">
+
+        </div>
+    </form>
+</div>
+

@@ -1,0 +1,17 @@
+C:\Users\Semih\source\repos\Library\Library.BLL\bin\Debug\Library.BLL.dll
+C:\Users\Semih\source\repos\Library\Library.BLL\bin\Debug\Library.BLL.pdb
+C:\Users\Semih\source\repos\Library\Library.BLL\obj\Debug\Library.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Semih\source\repos\Library\Library.BLL\obj\Debug\Library.BLL.dll
+C:\Users\Semih\source\repos\Library\Library.BLL\obj\Debug\Library.BLL.pdb
+C:\Users\Semih\source\repos\Library\Library.BLL\bin\Debug\Library.BLL.dll.config
+C:\Users\Semih\source\repos\Library\Library.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Semih\source\repos\Library\Library.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Semih\source\repos\Library\Library.BLL\bin\Debug\Library.DAL.dll
+C:\Users\Semih\source\repos\Library\Library.BLL\bin\Debug\Library.Entity.dll
+C:\Users\Semih\source\repos\Library\Library.BLL\bin\Debug\Library.DAL.pdb
+C:\Users\Semih\source\repos\Library\Library.BLL\bin\Debug\Library.DAL.dll.config
+C:\Users\Semih\source\repos\Library\Library.BLL\bin\Debug\Library.Entity.pdb
+C:\Users\Semih\source\repos\Library\Library.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Semih\source\repos\Library\Library.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Semih\source\repos\Library\Library.BLL\obj\Debug\Library.BLL.csprojAssemblyReference.cache
+C:\Users\Semih\source\repos\Library\Library.BLL\obj\Debug\Library.BLL.csproj.CopyComplete
